@@ -1,5 +1,5 @@
 <?php
-define('API_KEY', 'Ox3fAR0uRdZcWRBfBIlaYuYqhiTRKPoO');
+define('API_KEY', '');
 define('API_URL', 'https://pmsapi.hostify.com/');
 
    $current_date = date('Y-m-d'); 
